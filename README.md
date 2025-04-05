@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OS Scheduling Simulator
 
 An interactive web-based simulator for CPU scheduling algorithms. This tool helps visualize and understand different CPU scheduling algorithms commonly used in operating systems.
@@ -55,3 +56,6 @@ Then visit `http://localhost:8000` in your browser.
 ## License
 
 MIT License - feel free to use this project for learning and teaching purposes. 
+=======
+# os-scheduler-
+>>>>>>> 4b75e53e8881dcb89efa09bac3d7bbadf375a784
